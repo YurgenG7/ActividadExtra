@@ -1,0 +1,8 @@
+La unidad 3 ya vimos un poco acerca de la importancia de los controladores de versiones, estos nos 
+permiten administrar cambios en archivos y códigos, esto se puede resumir a que es algún tipo de
+historial de nuestro trabajo, junto a esto nos llega el tema de los repositorios en Git, este programa
+es el mas popular y utilizado para los controladores de versiones, nos dan muchas herramientas esenciales
+para saber en que momento se le hacen cambios al código y no perdernos en encontrar donde fue una 
+modificación del código, esta muy interesante estos temas, la verdad no conocía el tema de los controladores
+de versiones pero si me gustaria seguir aprendiendo más sobre estos temas, para saber como funciona de una manera
+más profesional.

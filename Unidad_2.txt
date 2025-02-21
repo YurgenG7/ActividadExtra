@@ -1,0 +1,9 @@
+La unidad 2 me ayudo a ver el rol de los lenguajes de programación, básicamente la forma de hablar y 
+dar instrucciones es muy ambiguapara las computadoras, conocí más acerca de las condicionales
+donde hay una decisión basada en algun dato, bucles o ciclos es una repetición de algunas partes de un código,
+las variables que son datos almacenados en memorias y que cambian su valor durante la ejecución de algún
+programa, operaciones lógicas en donde nos hace desarrollar más la toma de decisiones y si en caos no se
+toma la adecuada ver que otras opciones nos ofrecen esto ya nos lleva al tema de caracteres que nos ayudan 
+a tener mas opciones en caso de cada respuesta, la verdad me estaba costando entender el orden de cada una de estas
+ya en código para crear un programa, pero para poder entender mejor como funcionaba cada una decidí reforzarme con
+materiales de apoyo para hacer las actividades que nos pedian en la Unidad 2 ya que estas estaban un poco complicadas. 

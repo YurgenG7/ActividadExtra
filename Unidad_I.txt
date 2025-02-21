@@ -1,0 +1,7 @@
+En la unidad 1 pude conocer los conceptos básicos para empezar en el mundo de la programación,
+básicamente programar en pocas palabras es indicarle a una computadora que hacer.
+Aprendi que un algoritmo se basa en una serie de instrucciones o secuencia de pasos ordenados,
+el código binario se basa en 0 y 1, como hacer la operación para cada caso según sean numeros o letras,
+al principio si me costo entender como era que funcionaba este procedimiento, después de una repasada al
+contenido de material de apoyo que nos brindan en el GES comprendí mejor el tema y a como resolver las
+operaciones en código binario.
